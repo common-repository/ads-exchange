@@ -1,0 +1,113 @@
+h1
+{
+  padding-bottom: 10px  ;
+}
+
+/* page-report.php */
+
+.wrap
+{
+  padding: 5px;
+}
+
+.replin
+{
+  width: max-content;
+}
+
+.replin .colunatit
+{
+  float: left;
+  width: 110px;
+  padding: 10px; 
+  margin:1px;     
+  background-color: #ccc;
+  text-align:center;
+}
+
+.replin .coluna 
+{
+  float: left;
+  width: 110px;
+  padding: 10px; 
+  margin:1px; 
+  background-color: #fff;
+  text-align:right;
+}
+
+/* page-ads.php */
+
+.adslin 
+{
+  padding-top: 10px;
+}
+
+.adslin input
+{
+  padding: 5px 10px 5px 10px;
+}
+
+.adsurl
+{
+  padding: 5px 10px 5px 10px;
+  vertical-align: middle;
+  display: table-cell;
+  height: 30px;
+  box-shadow: 0 0 0 transparent;
+  border-radius: 4px;
+  border: 1px solid #8c8f94;
+  background-color: #fff;
+  color: #2c3338; 
+}
+
+.adsmsg
+{
+  background-color: #bbffbb; 
+  padding: 10px; 
+  width: fit-content;
+}
+
+/* page-config.php */
+
+.conflin
+{
+  background-color: #fff; 
+  width: max-content; 
+  margin:2px;
+}
+
+.confche
+{
+  display: table-cell; 
+  width: 80px; 
+  padding: 10px;
+}
+
+.confinp
+{
+  display: table-cell; 
+  padding: 10px;
+}
+
+.confinp input
+{
+  width: 60px;
+}
+
+.confsub
+{
+  margin: 10px 0px 10px 0px;
+}
+
+.confbox
+{
+  float: left; width: 100%; margin-bottom: 10px;
+}
+
+.confagr
+{
+  width: 236px; 
+  display: table-cell; 
+  padding: 10px;
+}
+

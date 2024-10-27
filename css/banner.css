@@ -1,0 +1,32 @@
+/* ads-feed.php */
+
+.banwrp
+{
+  display: table; 
+  width:100%; 
+  margin-bottom: 20px;
+}
+
+.bantop
+{
+  float: left; 
+  width:100%; 
+  border-bottom: solid 1px #ccc;
+}
+
+.bantoplnk
+{
+  float:left; 
+  background-color:#efefef; 
+  padding:5px; 
+  font-size:small;
+}
+
+.banban
+{
+  float: left; 
+  width:33%; 
+  padding:10px; 
+  min-width: 320px;
+}
+
